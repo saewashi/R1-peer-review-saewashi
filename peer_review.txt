@@ -1,0 +1,42 @@
+Name: Jason Francis
+Date: April 1, 2018
+Peer’s project: Guess a number
+
+What is something you learned by reviewing your peer’s project?
+
+
+
+What is something you saw in your peer’s project that you would like to apply to your own programming projects?
+
+The code is well-documented. I could always do a better job of that.
+
+
+
+What suggestions would you have for your peer to improve his/her code?
+
+Since both guessing games are almost the same, the guessing process could be pulled into a function to reduce code duplication.
+Also, there is no validation, so if the player types something other than a number, it will crash.
+
+
+
+What could have been clearer or better commented?
+
+It is quite clear.
+
+
+
+Was there anything in the code that was confusing to you? If so, what?
+
+It was all pretty clear.
+
+
+
+What is something he/she could add to the README.md to make it more descriptive?
+
+The purpose of the README.md is to communicate with anyone who is downloading the source code for your project. A programmer would expect some details about not only what the program does, but also the tools or level of knowledge required to understand the code itself.
+
+
+
+Pay a compliment to your peer based on the quality of his/her code.
+
+I appreciate your attention to detail and your original twist on the project.
